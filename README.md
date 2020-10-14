@@ -10,3 +10,6 @@ Ui-Clone da Netflix para estudar React.Js
 ## By
 
  - https://www.youtube.com/watch?v=tBweoUiMsDg
+ 
+ ![flash-netflix](https://user-images.githubusercontent.com/68790170/96029063-7e975c80-0e30-11eb-8375-482d7b5aecfd.png)
+
